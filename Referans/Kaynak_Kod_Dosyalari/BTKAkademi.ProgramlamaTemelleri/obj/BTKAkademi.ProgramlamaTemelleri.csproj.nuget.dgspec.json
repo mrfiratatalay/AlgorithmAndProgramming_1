@@ -1,28 +1,34 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FIRAT\\Desktop\\AlgorithmAndProgramming_1\\Referans\\Kaynak_Kod_Dosyalari\\BTKAkademi.ProgramlamaTemelleri\\BTKAkademi.ProgramlamaTemelleri.csproj": {}
+    "F:\\Courses\\BTK AKADEMİ\\YENI_PAKET\\PROGRAMLAMA\\VS\\BTKAkademi.ProgramlamaTemelleri\\BTKAkademi.ProgramlamaTemelleri.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FIRAT\\Desktop\\AlgorithmAndProgramming_1\\Referans\\Kaynak_Kod_Dosyalari\\BTKAkademi.ProgramlamaTemelleri\\BTKAkademi.ProgramlamaTemelleri.csproj": {
+    "F:\\Courses\\BTK AKADEMİ\\YENI_PAKET\\PROGRAMLAMA\\VS\\BTKAkademi.ProgramlamaTemelleri\\BTKAkademi.ProgramlamaTemelleri.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FIRAT\\Desktop\\AlgorithmAndProgramming_1\\Referans\\Kaynak_Kod_Dosyalari\\BTKAkademi.ProgramlamaTemelleri\\BTKAkademi.ProgramlamaTemelleri.csproj",
+        "projectUniqueName": "F:\\Courses\\BTK AKADEMİ\\YENI_PAKET\\PROGRAMLAMA\\VS\\BTKAkademi.ProgramlamaTemelleri\\BTKAkademi.ProgramlamaTemelleri.csproj",
         "projectName": "BTKAkademi.ProgramlamaTemelleri",
-        "projectPath": "C:\\Users\\FIRAT\\Desktop\\AlgorithmAndProgramming_1\\Referans\\Kaynak_Kod_Dosyalari\\BTKAkademi.ProgramlamaTemelleri\\BTKAkademi.ProgramlamaTemelleri.csproj",
-        "packagesPath": "C:\\Users\\FIRAT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FIRAT\\Desktop\\AlgorithmAndProgramming_1\\Referans\\Kaynak_Kod_Dosyalari\\BTKAkademi.ProgramlamaTemelleri\\obj\\",
+        "projectPath": "F:\\Courses\\BTK AKADEMİ\\YENI_PAKET\\PROGRAMLAMA\\VS\\BTKAkademi.ProgramlamaTemelleri\\BTKAkademi.ProgramlamaTemelleri.csproj",
+        "packagesPath": "C:\\Users\\zafer\\.nuget\\packages\\",
+        "outputPath": "F:\\Courses\\BTK AKADEMİ\\YENI_PAKET\\PROGRAMLAMA\\VS\\BTKAkademi.ProgramlamaTemelleri\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "C:\\Users\\FIRAT\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\zafer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://zcomert.pkgs.visualstudio.com/SAMU/_packaging/SAMU.StudentProject/nuget/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -45,35 +51,16 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[3.1.10, 3.1.10]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[3.1.32, 3.1.32]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[3.1.0, 3.1.0]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
