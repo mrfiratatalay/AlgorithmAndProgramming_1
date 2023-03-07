@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "5zEpQHUyxYIzBqFHh2z1tZ3OkfrneRQ044ccKJZ0KuaDncXF16zZHLg/rDYeGKbsAYeOmQXDriBa0VHeb2cbyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FIRAT\\Desktop\\AlgorithmAndProgramming_1\\Referans\\Kaynak_Kod_Dosyalari\\BTKAkademi.ProgramlamaTemelleri\\BTKAkademi.ProgramlamaTemelleri.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FIRAT\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\FIRAT\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\FIRAT\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\FIRAT\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
