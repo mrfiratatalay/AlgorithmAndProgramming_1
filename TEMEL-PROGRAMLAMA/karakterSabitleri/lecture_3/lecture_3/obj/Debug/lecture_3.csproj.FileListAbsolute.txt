@@ -1,0 +1,8 @@
+C:\Users\FIRAT\Desktop\karakterSabitleri\lecture_3\lecture_3\obj\Debug\lecture_3.csproj.AssemblyReference.cache
+C:\Users\FIRAT\Desktop\karakterSabitleri\lecture_3\lecture_3\obj\Debug\lecture_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\FIRAT\Desktop\karakterSabitleri\lecture_3\lecture_3\obj\Debug\lecture_3.csproj.CoreCompileInputs.cache
+C:\Users\FIRAT\Desktop\karakterSabitleri\lecture_3\lecture_3\bin\Debug\lecture_3.exe.config
+C:\Users\FIRAT\Desktop\karakterSabitleri\lecture_3\lecture_3\bin\Debug\lecture_3.exe
+C:\Users\FIRAT\Desktop\karakterSabitleri\lecture_3\lecture_3\bin\Debug\lecture_3.pdb
+C:\Users\FIRAT\Desktop\karakterSabitleri\lecture_3\lecture_3\obj\Debug\lecture_3.exe
+C:\Users\FIRAT\Desktop\karakterSabitleri\lecture_3\lecture_3\obj\Debug\lecture_3.pdb
