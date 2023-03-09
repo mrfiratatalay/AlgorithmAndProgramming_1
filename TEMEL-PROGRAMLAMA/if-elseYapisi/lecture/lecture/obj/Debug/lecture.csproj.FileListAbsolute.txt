@@ -1,0 +1,8 @@
+C:\Users\FIRAT\Desktop\if-elseYapisi\lecture\lecture\bin\Debug\lecture.exe.config
+C:\Users\FIRAT\Desktop\if-elseYapisi\lecture\lecture\bin\Debug\lecture.exe
+C:\Users\FIRAT\Desktop\if-elseYapisi\lecture\lecture\bin\Debug\lecture.pdb
+C:\Users\FIRAT\Desktop\if-elseYapisi\lecture\lecture\obj\Debug\lecture.csproj.AssemblyReference.cache
+C:\Users\FIRAT\Desktop\if-elseYapisi\lecture\lecture\obj\Debug\lecture.csproj.SuggestedBindingRedirects.cache
+C:\Users\FIRAT\Desktop\if-elseYapisi\lecture\lecture\obj\Debug\lecture.csproj.CoreCompileInputs.cache
+C:\Users\FIRAT\Desktop\if-elseYapisi\lecture\lecture\obj\Debug\lecture.exe
+C:\Users\FIRAT\Desktop\if-elseYapisi\lecture\lecture\obj\Debug\lecture.pdb
